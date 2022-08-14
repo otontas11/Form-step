@@ -201,8 +201,7 @@ h1 .subtitle {
   padding: 10px 0;
 }
 .wizard-card .picture-container {
-  position: relative;
-  cursor: pointer;
+ 
   text-align: center;
 }
 .wizard-card .picture {
@@ -236,6 +235,9 @@ h1 .subtitle {
 }
 .wizard-card .disabled {
   display: none;
+}
+.wizard-header{
+    width: 100%;
 }
 .wizard-card .wizard-header h3 {
   font-weight: 200;
